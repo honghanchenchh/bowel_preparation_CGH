@@ -1,1 +1,1 @@
-Put training images in this folder
+Put training images in this folder for the first fold
